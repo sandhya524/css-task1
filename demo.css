@@ -1,5 +1,15 @@
+.c1{
+    font-style: italic;
+    text-align: center;
+}
+.c4{
+    color: blue;
+}
 .c2{
-    color: maroon;
-    font-weight: bold;
     text-decoration: underline;
+    font-weight: bold;
+    color: chartreuse;
+}
+#i1{
+    color: goldenrod;
 }
